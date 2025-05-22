@@ -1,3 +1,0 @@
-
-app_set_name(subghz_bruteforce_custom)
-app_add_sources(subghz_bruteforce_custom.c)
